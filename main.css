@@ -50,11 +50,11 @@ div.maindiv {
 
 span.leftbox {
   display: inline-block;
-  width: 400px;
+  width: 380px;
 }
 
 span.rightbox {
-  width: 200px;
+  width: 180px;
   display: inline-block;
 }
 
